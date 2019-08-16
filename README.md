@@ -1,5 +1,8 @@
 # Gaussian Random Fields demo
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/larsgeb/gaussian-random-fields-demo/master?filepath=Notebook%201%20-%20GRFs%20introduction.ipynb)
+
 A demo of Gaussian random fields using Jupyter Notebooks and the Fenics FEM library.
+
 
 ## Using your own environment
 These notebooks are based only on a few packages, so installing by hand should not prove to be complicated. The basic packages we need are NumPy, SciPy and Matplotlib. These should be available in most installation already, otherwise run:
