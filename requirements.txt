@@ -123,6 +123,7 @@ qtconsole=4.5.2=py_0
 readline=8.0=hf8c457e_0
 rhash=1.3.6=h14c3975_1001
 scalapack=2.0.2=h2831592_1005
+scipy=1.3.1=py37h921218d_1
 scotch=6.0.6=h491eb26_1002
 send2trash=1.5.0=py_0
 setuptools=41.0.1=py37_0
