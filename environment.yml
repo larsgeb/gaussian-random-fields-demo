@@ -18,6 +18,7 @@ dependencies:
   - click=7.0
   - cmake=3.15.1
   - curl=7.65.3
+  - cycler=0.10.0
   - dbus=1.13.6
   - decorator=4.4.0
   - defusedxml=0.5.0
@@ -59,6 +60,7 @@ dependencies:
   - jupyter_client=5.3.1
   - jupyter_console=6.0.0
   - jupyter_core=4.4.0
+  - kiwisolver=1.1.0
   - krb5=1.16.3
   - libblas=3.8.0
   - libcblas=3.8.0
@@ -79,6 +81,8 @@ dependencies:
   - libxcb=1.13
   - libxml2=2.9.9
   - markupsafe=1.1.1
+  - matplotlib=3.1.1
+  - matplotlib-base=3.1.1
   - metis=5.1.0
   - mistune=0.8.4
   - mpc=1.1.0
@@ -115,6 +119,7 @@ dependencies:
   - ptyprocess=0.6.0
   - pybind11=2.2.4
   - pygments=2.4.2
+  - pyparsing=2.4.2
   - pyqt=5.9.2
   - pyrsistent=0.15.4
   - python=3.7.3

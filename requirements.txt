@@ -16,6 +16,7 @@ certifi=2019.6.16=py37_1
 click=7.0=py_0
 cmake=3.15.1=hf94ab9c_0
 curl=7.65.3=hf8cf82a_0
+cycler=0.10.0=py_1
 dbus=1.13.6=he372182_0
 decorator=4.4.0=py_0
 defusedxml=0.5.0=py_1
@@ -57,6 +58,7 @@ jupyter=1.0.0=py_2
 jupyter_client=5.3.1=py_0
 jupyter_console=6.0.0=py_0
 jupyter_core=4.4.0=py_0
+kiwisolver=1.1.0=py37hc9558a2_0
 krb5=1.16.3=h05b26f9_1001
 libblas=3.8.0=12_openblas
 libcblas=3.8.0=12_openblas
@@ -77,6 +79,8 @@ libuv=1.30.1=h516909a_0
 libxcb=1.13=h14c3975_1002
 libxml2=2.9.9=hee79883_2
 markupsafe=1.1.1=py37h14c3975_0
+matplotlib=3.1.1=py37_1
+matplotlib-base=3.1.1=py37he7580a8_1
 metis=5.1.0=hf484d3e_1003
 mistune=0.8.4=py37h14c3975_1000
 mpc=1.1.0=hb20f59a_1006
@@ -113,6 +117,7 @@ ptscotch=6.0.6=h5a4526e_1002
 ptyprocess=0.6.0=py_1001
 pybind11=2.2.4=py37hc9558a2_1001
 pygments=2.4.2=py_0
+pyparsing=2.4.2=py_0
 pyqt=5.9.2=py37hcca6a23_2
 pyrsistent=0.15.4=py37h516909a_0
 python=3.7.3=h33d41f4_1
