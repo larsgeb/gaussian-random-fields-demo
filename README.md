@@ -1,7 +1,7 @@
 # Gaussian Random Fields demo
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/larsgeb/gaussian-random-fields-demo/master?filepath=Notebook%201%20-%20GRFs%20introduction.ipynb)
 
-A demo of Gaussian random fields using Jupyter Notebooks and the Fenics FEM library.
+A demo of Gaussian random fields using Jupyter Notebooks and the Fenics FEM library. I advise clicking the Binder button above here to run the code directly in your browser without any installation! Otherwise, follow the instructions below.
 
 
 ## Using your own environment
